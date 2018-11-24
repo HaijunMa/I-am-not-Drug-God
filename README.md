@@ -22,8 +22,36 @@
    - numpy、panda、matplotlib数据科学计算库的三巨头
      
    - 支持汉字体的ttf字体库文件 junjun.ttf  (中国行草)
-    
-   **先放几张电影海报**
-   
-   **这是几张剧照**
  
+ 
+ 
+ 先放几张电影海报
+-------------------------------------------
+   
+   ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/1.png)
+   
+   ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/2.png)
+   
+   
+ 这是几张剧照
+----------------------------------------------
+ ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/3.png)
+ 
+ ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/4.png)
+ 
+ ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/5.png)
+ 
+ ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/6.png)
+ 
+ 
+ 好朋友PS的人物轮廓
+ ---------------------------
+ 
+ ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/drug.png)
+ 
+ 行草词云 ，大众声音
+ ------------
+    
+ ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/two.png)
+ 
+ ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/one.png)
