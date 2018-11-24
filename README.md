@@ -35,13 +35,13 @@
    
  这是几张剧照
 ----------------------------------------------
- ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/3.png)
+ ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/3.png=200x100)
  
- ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/4.png)
+ ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/4.png=200x100)
  
- ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/5.png)
+ ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/5.png=200x100)
  
- ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/6.png)
+ ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/6.png=200x100)
  
  
  好朋友PS的人物轮廓
