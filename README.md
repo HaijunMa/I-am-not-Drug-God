@@ -1,7 +1,8 @@
 # *《我不是药神》* 影评
     Crawling film reviews of I am not Drug God
     
-### 简述                                 
+### :pill: 简述                                 
+  
     
      电影在七月初的时候就已经上映，那时候听说这部电影很火，就计划去看看，但是由于一直都特别忙，
      就连暑假也占用了，推推推，就到现在了。昨天，打开爱奇艺无意间想起了，之前计划看的这部电影，  
@@ -9,8 +10,9 @@
      不好，看到那些没钱买药，为了意思生机只能买仿制药、假药。而程勇最终把生意逐渐变成了一场关  
      于救赎的拉锯战。电影中有很多凄凉的场面。我想看看其他人对这部电影的看法，就写了一个爬虫，  
      爬了一些影评，做了一个词云。
+   
     
-### 开发环境
+### :computer: 开发环境
    - pycharm  +  Python3
      
    - urllib、bs4、re库
@@ -23,9 +25,19 @@
      
    - 支持汉字体的ttf字体库文件 junjun.ttf  (中国行草)
  
+ ### :ok_hand: QUICKLY START
  
  
- 先放几张电影海报
+      git clone https://github.com/HaijunMa/I-am-not-Drug-God.git
+      
+      cd Drug_God
+      
+      python spider_main.py
+     
+     
+     
+ 
+ :tv: 先放几张电影海报
 -------------------------------------------
    
    ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/1.png)
@@ -33,25 +45,32 @@
    ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/2.png)
    
    
- 这是几张剧照
+:camera: 这是几张剧照
 ----------------------------------------------
- ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/3.png=200x100)
+ ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/3.png)
  
- ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/4.png=200x100)
+ ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/4.png)
  
- ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/5.png=200x100)
+ ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/5.png)
  
- ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/6.png=200x100)
+ ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/6.png)
  
  
- 好朋友PS的人物轮廓
+ :two_men_holding_hands: 好朋友PS的人物轮廓
  ---------------------------
  
  ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/drug.png)
  
- 行草词云 ，大众声音
+:black_nib: 行草词云 ，大众声音
  ------------
     
  ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/two.png)
  
  ![](https://github.com/HaijunMa/I-am-not-Drug-God/raw/master/image/one.png)
+ 
+ 
+ ### :heartpulse: Blessing
+ 
+   
+   
+  **:sparkles:愿人人健康，无疾病之痛！:sparkles:
